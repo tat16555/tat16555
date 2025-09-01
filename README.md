@@ -4,9 +4,8 @@
 I'm tat, Fullstack developer from 
 <img src="https://cdn-icons-png.flaticon.com/512/197/197452.png" width="13"/> <b>Bangkok, Thailand</b>.
 </p>
-
-<h3>Things I code with</h3>
 <p>https://tat16555.github.io/portfolio_Tat.github.io/<p>
+<h3>Things I code with</h3>
 <p>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
